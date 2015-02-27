@@ -12,3 +12,5 @@ libraryDependencies ++= Seq(
   cache,
   ws
 )
+
+herokuAppName in Compile := "young-gorge-2124"
